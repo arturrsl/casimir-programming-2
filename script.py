@@ -1,7 +1,7 @@
 
 
 
-print ('Artur is an insane man')
+print ('Veerje heeft een biertje')
 
 
 print ('hello world')
