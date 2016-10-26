@@ -1,4 +1,4 @@
-print ('Artur is crazy')
+print ('Artur is a smart man')
 
 print ('hello world')
 
