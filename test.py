@@ -8,7 +8,10 @@ def circumference(r):
 circumference(5)
 
 
+def surface(r):
+    return pi*r**r
 
+surface(5)
 
 
 
