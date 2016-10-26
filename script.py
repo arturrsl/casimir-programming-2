@@ -1,0 +1,2 @@
+print ('Artur is silly')
+
